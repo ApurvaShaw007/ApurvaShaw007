@@ -1,3 +1,9 @@
+<div align="center">
+<img width="100%" height = "" src="https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xOTYwMDA3Ny9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTY2NjEwODk4OH0.Ak820-nwF0IHPksLKc2pA3Bkby4Un2spz0PnZkzn_90/img.jpg?width=1245&quality=85&coordinates=0%2C460%2C0%2C165&height=700" alt="cover" />
+</div>
+
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
 <h1 align="center">Hi 👋, I'm Apurva Shaw</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
